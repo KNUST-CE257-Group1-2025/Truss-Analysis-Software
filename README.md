@@ -24,8 +24,10 @@ The application displays numerical results and a visual truss diagram showing th
 - `README.md` – Overview and usage instructions
 
 📷 Screenshots
-Include images of the GUI and output diagrams here.
+![image](https://github.com/user-attachments/assets/56970ed5-c0b2-4804-b934-492fa0f29e3a)
+
 🔗 GitHub Repository
-https://github.com/KNUST-CE257-TeamX/truss-analysis-app
+https://github.com/KNUST-CE257-Group1-2025/Truss-Analysis-Software
+
 📃 License
 This project is licensed under the MIT License.
