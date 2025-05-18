@@ -23,8 +23,8 @@ Truss Analysis Software
 ## How to Download the Application
 1. Click the link below:
 - https://github.com/KNUST-CE257-Group1-2025/Truss-Analysis-Software/releases
-2. Click the Truss_analysis_setup exe file and run it.
-3. Follow the on-screen instructions to complete the installation.
+2. Click the Truss_analysis_setup exe file to download it. 
+3. Run the exe and follow the on-screen instructions to complete the installation.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/56970ed5-c0b2-4804-b934-492fa0f29e3a)
