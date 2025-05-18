@@ -28,9 +28,8 @@ Truss Analysis Software
 - `README.md` – Overview and usage instructions
 
 ## How to Download the Application
--Click the link below
-
-https://github.com/KNUST-CE257-Group1-2025/Truss-Analysis-Software/releases
+- Click the link below
+- https://github.com/KNUST-CE257-Group1-2025/Truss-Analysis-Software/releases
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/56970ed5-c0b2-4804-b934-492fa0f29e3a)
