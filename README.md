@@ -19,6 +19,7 @@ Truss Analysis Software
 - `truss_analysis.py` – Main application code
 - `roof.ico` – Icon for the application window
 - `README.md` – Overview and usage instructions
+- `requirements.txt` - Required python libraries to run source code
 
 ## How to Download the Application
 1. Click the link below:
