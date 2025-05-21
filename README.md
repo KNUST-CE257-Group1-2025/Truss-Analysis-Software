@@ -28,7 +28,7 @@ Truss Analysis Software
 3. Run the exe and follow the on-screen instructions to complete the installation.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/56970ed5-c0b2-4804-b934-492fa0f29e3a)
+![image](https://github.com/user-attachments/assets/a5b5c24d-2a24-4125-891f-78466c1928af)
 
 ## GitHub Repository
 - https://github.com/KNUST-CE257-Group1-2025/Truss-Analysis-Software
